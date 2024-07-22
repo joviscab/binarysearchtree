@@ -1,4 +1,4 @@
-# Odin Project - HashMap Exercise
+# Odin Project - Binary Search Tree Exercise
 
 ## Who am I? What is this?
 
